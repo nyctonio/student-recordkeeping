@@ -1,0 +1,36 @@
+{
+ "Courses": [
+  {
+   "CourseID": "CS104",
+   "CourseName": "Programming in C"
+  },
+  {
+   "CourseID": "CS140",
+   "CourseName": "Problem Solving With Python"
+  },
+  {
+   "CourseID": "CS109",
+   "CourseName": "Object Oriented Programming in Java"
+  },
+  {
+   "CourseID": "CS111",
+   "CourseName": "Introduction to Linux "
+  },
+  {
+   "CourseID": "CS112",
+   "CourseName": "Database Management System"
+  },
+  {
+   "CourseID": "CS130",
+   "CourseName": "Computer Networks"
+  },
+  {
+   "CourseID": "CS150",
+   "CourseName": "Advanced Web Technologies"
+  },
+  {
+   "CourseID": "CS160",
+   "CourseName": "Object Oriented Programming in Python"
+  }
+ ]
+}
