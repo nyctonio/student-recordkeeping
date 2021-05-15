@@ -1,8 +1,11 @@
--------------------  Hello Programmer ----------------
-this is a project of a student database 
------>if you encounter an error while running the main.py
+# Student Record Keeping Project
 
--->  There may be 2 main reasons for that 
+## A record Keeping project made in Python Using Tkinter
+
+this is a project of a student database 
+
+If you encounter an error while running the main.py
+There may be 2 main reasons for that 
 
 1.  your directory might be wrong. Open the whole folder tkinter_project in vs code
     the directory in which this is running should be like.
@@ -19,5 +22,4 @@ this is a project of a student database
     in your command line or make the code line 4,32,33,34 commented
     but this will hide the chitkara university logo 
 
------------------- Thanks for reading ---------------
      
